@@ -87,8 +87,5 @@ This project is licensed under the **MIT License**.
 
 ---
 
-## 🛡️ Acknowledgments  
-
-This project was created during the **TechSaksham AI Internship Program**, a collaborative effort by **Microsoft**, **SAP**, and **AICTE**. Special thanks to the mentors for their guidance and support.  
 
 
